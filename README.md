@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+<center>
+<font face="黑体" size="5" color="">
+<br/><a href="http://202.102.26.253:8182/files/76/LP-01.jpg">龙坪保障房水图-01-地下室，一层给排水、消火栓平面图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/LP-02.jpg">龙坪保障房水图-02-二~三层给排水、消火栓平面图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/LP-03.jpg">龙坪保障房水图-03-四~六层给排水、消火栓平面图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/LP-04.jpg">龙坪保障房水图-04-七~屋顶层给排水、消火栓平面图，自喷系统图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/LP-05.jpg">龙坪保障房水图-05-各户型给排水大样及系统图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/LP-06.jpg">龙坪保障房水图-06-地下室，一层自喷平面图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/LP-07.jpg">龙坪保障房水图-07-二层自喷平面图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/LP-08.jpg">龙坪保障房水图-08-给排水系统图、消火栓系统图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/LP-09.jpg">龙坪保障房水图-09-地下室泵房平面大样图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/LP-10.jpg">龙坪保障房水图-给排水设计总说明</a>
 
-You can use the [editor on GitHub](https://github.com/huifeiyang/WeiYuan_LongPin/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huifeiyang/WeiYuan_LongPin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</font>
+</center>
